@@ -1,0 +1,5 @@
+[Globals]
+SdbGroup=sdba
+SdbOwner=sdb
+IndepData=/sapdb/data
+IndepPrograms=/sapdb/programs

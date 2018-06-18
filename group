@@ -1,0 +1,3 @@
+sapinst:x:1000:root,npladm,sqdnpl
+sapsys:x:1001:
+sdba:x:1002:sqdnpl
